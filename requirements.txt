@@ -8,14 +8,14 @@ python-dotenv==1.0.0
 
 # Machine learning and similarity
 numpy==1.26.3
-scikit-learn==1.4.0
-nltk==3.8.1
+scikit-learn==1.5.0
+nltk==3.9
 
 # LLM integration (UPDATED)
 openai==1.10.0
 
 # HTTP requests
-requests==2.31.0
+requests==2.32.4
 
 # Testing
 pytest==7.4.4
